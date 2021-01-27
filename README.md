@@ -5,6 +5,13 @@
 Happy é um projeto que tem a intenção de ajudar pessoas a encontrar e fazer visitas a orfanatos, para deixar o dia de uma criança mais feliz! 
 A aplicação está sendo desenvolvida durante a Next Level Week(NLW), que é um evento online disponibilizado pela Rocketseat 🚀.
 
+Projeto Completo.
+
+Tecnologias Utilizadas
+- HTML/CSS
+- JavaScript
+- SQL
+
 ## 💻 Preview
 <h3 align="center">Página Inicial</h3>
 <p align="center"><img src="https://user-images.githubusercontent.com/48254551/96062667-9f7da300-0e6c-11eb-9ce0-4bdc70013aeb.png" title="preview"/></p>
